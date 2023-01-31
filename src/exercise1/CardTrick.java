@@ -57,19 +57,19 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Shaher, but you can call me Shaher, Shaher or Shaher");
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
+        System.out.println("-- Workout and gym");
         System.out.println("-- Have a semester with no violations of academic integrity!");
 	System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Investing");
-        System.out.println("-- Cooking");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- Reading");
+        System.out.println("-- Tech");
+        System.out.println("-- Making coffee");
+        System.out.println("-- Gaming");
 
         System.out.println();
         
